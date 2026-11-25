@@ -1,0 +1,362 @@
+[
+ {
+  "region": "MIDDLE EAST",
+  "place": "Strait of Hormuz",
+  "lat": 26.6,
+  "lon": 56.5,
+  "kicker": "SHIPPING",
+  "head": "Three tankers burn on Hormuz mines",
+  "body": "Iran said three oil tankers struck mines and caught fire in the strait; underwriters widened war-risk cover and insurers repriced Gulf transits within hours.",
+  "src": "Al Jazeera",
+  "lead": true,
+  "stats": [
+   [
+    "96",
+    "drones over Ukraine, 64 of them jet-powered"
+   ],
+   [
+    "3",
+    "tankers burning on mines in Hormuz"
+   ],
+   [
+    "259",
+    "House seats won by Democrats"
+   ],
+   [
+    "44%",
+    "approve Tokyo's China stance"
+   ],
+   [
+    "35",
+    "stocks left as MSCI trims Indonesia"
+   ],
+   [
+    "16 DEC",
+    "Hasina's planned return to Dhaka"
+   ]
+  ]
+ },
+ {
+  "region": "MIDDLE EAST",
+  "place": "Tehran",
+  "lat": 35.7,
+  "lon": 51.4,
+  "kicker": "DIPLOMACY",
+  "head": "Iran sets seven conditions for talks",
+  "body": "Tehran ruled out negotiation with Washington until seven conditions are met, hardening its position as the Hormuz standoff ran into a second week.",
+  "src": "AP"
+ },
+ {
+  "region": "MIDDLE EAST",
+  "place": "Aden",
+  "lat": 12.8,
+  "lon": 45.0,
+  "kicker": "YEMEN",
+  "head": "Houthis close in on Aden",
+  "body": "Yemeni forces dug in behind a fortified line as the Houthi advance reached the approaches to the government's seat.",
+  "src": "AP"
+ },
+ {
+  "region": "MIDDLE EAST",
+  "place": "Beirut",
+  "lat": 33.9,
+  "lon": 35.5,
+  "kicker": "CEASEFIRE",
+  "head": "Strikes in the south test the truce",
+  "body": "Fresh Israeli strikes drew accusations that the November ceasefire was already being violated.",
+  "src": "Reuters",
+  "brief": true
+ },
+ {
+  "region": "MIDDLE EAST",
+  "place": "Gaza",
+  "lat": 31.5,
+  "lon": 34.4,
+  "kicker": "AID",
+  "head": "Oxfam calls Gaza a 'toxic wasteland'",
+  "body": "The aid group said collapsed water and sewage systems now kill more people than strikes do.",
+  "src": "Al Jazeera"
+ },
+ {
+  "region": "EUROPE",
+  "place": "Kyiv",
+  "lat": 50.4,
+  "lon": 30.5,
+  "kicker": "UKRAINE",
+  "head": "96 drones, 64 of them jet-powered",
+  "body": "Russia's overnight attack included 64 jet drones; air defences downed most of the wave, the air force said.",
+  "src": "RBC-Ukraine"
+ },
+ {
+  "region": "EUROPE",
+  "place": "Warsaw",
+  "lat": 52.2,
+  "lon": 21.0,
+  "kicker": "NATO",
+  "head": "A Russian drone crosses into Poland",
+  "body": "Warsaw said a Russian drone entered Polish airspace during the overnight strikes on Ukraine.",
+  "src": "ABC News"
+ },
+ {
+  "region": "EUROPE",
+  "place": "Tallinn",
+  "lat": 59.4,
+  "lon": 24.7,
+  "kicker": "BALTIC",
+  "head": "Estonia warned of 'open war'",
+  "body": "Moscow accused Tallinn of hostile actions 'on the verge of triggering open war' over plans to close the border.",
+  "src": "Reuters"
+ },
+ {
+  "region": "EUROPE",
+  "place": "Geneva",
+  "lat": 46.2,
+  "lon": 6.1,
+  "kicker": "CHILDREN",
+  "head": "Three children killed a day in Ukraine",
+  "body": "UNICEF put the daily toll of children killed in the war at three, most of them in drone and missile strikes.",
+  "src": "UNICEF"
+ },
+ {
+  "region": "ASIA",
+  "place": "Tokyo",
+  "lat": 35.6,
+  "lon": 139.7,
+  "kicker": "JAPAN",
+  "head": "China-policy approval falls to 44%",
+  "body": "Support for Tokyo's China stance slipped to 44% in a new poll before a packed diplomatic week.",
+  "src": "Rio Times"
+ },
+ {
+  "region": "ASIA",
+  "place": "Taipei",
+  "lat": 25.0,
+  "lon": 121.5,
+  "kicker": "TAIWAN",
+  "head": "Local vote tests a fraying opposition",
+  "body": "Taiwan's 28 November local elections exposed fresh splits inside the opposition camp.",
+  "src": "Rio Times"
+ },
+ {
+  "region": "ASIA",
+  "place": "Jakarta",
+  "lat": -6.2,
+  "lon": 106.8,
+  "kicker": "MARKETS",
+  "head": "MSCI cuts Indonesia to 35 stocks",
+  "body": "The index provider trimmed Indonesia's stock count to 35 in its latest review.",
+  "src": "Rio Times"
+ },
+ {
+  "region": "ASIA",
+  "place": "Bangkok",
+  "lat": 13.7,
+  "lon": 100.5,
+  "kicker": "THAILAND",
+  "head": "Floods in the south, censure in parliament",
+  "body": "Flood water spread through southern provinces as parliament opened a censure debate.",
+  "src": "Rio Times"
+ },
+ {
+  "region": "ASIA",
+  "place": "Dhaka",
+  "lat": 23.8,
+  "lon": 90.4,
+  "kicker": "BANGLADESH",
+  "head": "Hasina plans a 16 December return",
+  "body": "The ousted premier said she will fly home on 16 December, setting up a confrontation with the interim government.",
+  "src": "AP"
+ },
+ {
+  "region": "ASIA",
+  "place": "Singapore",
+  "lat": 1.35,
+  "lon": 103.8,
+  "kicker": "CHIPS",
+  "head": "Nvidia chip-diversion inquiry widens",
+  "body": "Singapore-linked Megaspeed sat at the centre of a US probe into diverted AI chips.",
+  "src": "Reuters",
+  "brief": true
+ },
+ {
+  "region": "AFRICA",
+  "place": "Khartoum",
+  "lat": 15.5,
+  "lon": 32.5,
+  "kicker": "SUDAN",
+  "head": "Drones strike the capital and its airport",
+  "body": "The army said the drones were launched from Ethiopian territory; the RSF denied it.",
+  "src": "AFP"
+ },
+ {
+  "region": "AFRICA",
+  "place": "Addis Ababa",
+  "lat": 9.0,
+  "lon": 38.7,
+  "kicker": "MEDIATION",
+  "head": "Ethiopia offers to host Sudan talks",
+  "body": "Abiy Ahmed offered to mediate Sudan's war even as Khartoum accused Addis Ababa of backing the RSF.",
+  "src": "Radio Tamazuj"
+ },
+ {
+  "region": "AFRICA",
+  "place": "Mekelle",
+  "lat": 13.5,
+  "lon": 39.5,
+  "kicker": "JUSTICE",
+  "head": "Tigray shelling 'possible war crimes'",
+  "body": "Amnesty said artillery strikes on towns in Tigray this year should be investigated as war crimes.",
+  "src": "Reuters"
+ },
+ {
+  "region": "OCEANIA",
+  "place": "Canberra",
+  "lat": -35.3,
+  "lon": 149.1,
+  "kicker": "PACIFIC",
+  "head": "Another Pacific pact to counter China",
+  "body": "Australia moved to sign a security deal with a Pacific state, its latest bid to blunt Beijing's reach.",
+  "src": "Bloomberg"
+ },
+ {
+  "region": "AMERICAS",
+  "place": "New York",
+  "lat": 40.7,
+  "lon": -74.0,
+  "kicker": "AI & POWER",
+  "head": "Huang is back, and the rally fades",
+  "body": "Nvidia's reinstated chief executive returned after Trump's intervention; the AI rally faded by the close.",
+  "src": "AP"
+ },
+ {
+  "region": "AMERICAS",
+  "place": "Washington",
+  "lat": 38.9,
+  "lon": -77.0,
+  "kicker": "CONGRESS",
+  "head": "Democrats take the House",
+  "body": "Democrats clinched at least 259 seats, their best result in decades, and made the Huang affair their first line of attack.",
+  "src": "AP"
+ },
+ {
+  "region": "AMERICAS",
+  "place": "Culiacan",
+  "lat": 24.8,
+  "lon": -107.4,
+  "kicker": "MEXICO",
+  "head": "Chapo Isidro held after a deadly raid",
+  "body": "Isidro Meza Flores was captured in Sinaloa; Mexico said it will try him despite a US extradition request.",
+  "src": "Rio Times",
+  "brief": true
+ },
+ {
+  "region": "ASIA",
+  "place": "New Delhi",
+  "lat": 28.6,
+  "lon": 77.2,
+  "kicker": "",
+  "head": "India and Nepal reset ties",
+  "body": "",
+  "src": "Reuters",
+  "brief": true
+ },
+ {
+  "region": "ASIA",
+  "place": "Beijing",
+  "lat": 39.9,
+  "lon": 116.4,
+  "kicker": "",
+  "head": "Shenzhou-24 crew named, with Pakistan's first astronaut",
+  "body": "",
+  "src": "AP",
+  "brief": true
+ },
+ {
+  "region": "AMERICAS",
+  "place": "Mexico City",
+  "lat": 19.4,
+  "lon": -99.1,
+  "kicker": "",
+  "head": "Inflation at a six-month high",
+  "body": "",
+  "src": "Miami Herald",
+  "brief": true
+ },
+ {
+  "region": "AMERICAS",
+  "place": "Des Moines",
+  "lat": 41.6,
+  "lon": -93.6,
+  "kicker": "",
+  "head": "Army to blow up unstable explosives in Iowa",
+  "body": "",
+  "src": "AP",
+  "brief": true
+ },
+ {
+  "region": "OCEANIA",
+  "place": "Suva",
+  "lat": -18.1,
+  "lon": 178.4,
+  "kicker": "",
+  "head": "Pacific states build their own climate alliances",
+  "body": "",
+  "src": "SBS",
+  "brief": true
+ },
+ {
+  "region": "OCEANIA",
+  "place": "Port Vila",
+  "lat": -17.7,
+  "lon": 168.3,
+  "kicker": "",
+  "head": "Opposition rejects the Vanuatu treaty",
+  "body": "",
+  "src": "PINA",
+  "brief": true
+ },
+ {
+  "region": "GLOBAL",
+  "place": "World markets",
+  "lat": 51.5,
+  "lon": -0.1,
+  "kicker": "",
+  "head": "Oil gains as Hormuz risk returns; Wall Street splits",
+  "body": "",
+  "src": "Investopedia",
+  "brief": true
+ },
+ {
+  "region": "ASIA",
+  "place": "Seoul",
+  "lat": 37.6,
+  "lon": 127.0,
+  "kicker": "",
+  "head": "Exam day locks down flight paths",
+  "body": "",
+  "src": "AP",
+  "brief": true
+ },
+ {
+  "region": "AMERICAS",
+  "place": "Atlanta",
+  "lat": 33.7,
+  "lon": -84.4,
+  "kicker": "",
+  "head": "Holiday travel meets a storm front",
+  "body": "",
+  "src": "AP",
+  "brief": true
+ },
+ {
+  "region": "AFRICA",
+  "place": "Maroua",
+  "lat": 10.6,
+  "lon": 14.3,
+  "kicker": "",
+  "head": "Ransom kidnappings surge in Cameroon",
+  "body": "",
+  "src": "AFP",
+  "brief": true
+ }
+]
