@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/rivaly07/news-image-24nov/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/rivaly07/news-image-24nov/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
 News image — Tuesday 24 November 2026
 
 A deterministic, offline newspaper-style 1024×1024 image built from 32 supplied stories. The page combines a dated masthead and fact strip, a lead story illustration, a three-column story grid, a geographic dateline map, and short additional story listings. Headlines, figures, dates and source labels are rendered from news.json; that supplied dataset is not independently verified reporting.
